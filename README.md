@@ -1,4 +1,4 @@
-# Long-term_time_series_Social_life_basic_survey
+# long-term_time_series_social_life_basic_survey
 　【和歌山県　長期時系列　社会生活基本調査です。】
 ◆社会生活基本調査とは
 　社会生活基本調査は、総務省統計局が実施する統計調査のうち、統計法により特に重要なものとされる「基幹統計調査」として実施される調査で、都道府県を通じて行います。 
